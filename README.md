@@ -10,9 +10,6 @@ A simple stopwatch app built using Jetpack Compose in Android.
 - Jetpack Compose
 - Kotlin
 
-## Screenshots
-Include screenshots of your app here to showcase its UI and features.
-
 ## Getting Started
 ### Prerequisites
 - Android Studio Arctic Fox (2020.3.1) or later
@@ -20,5 +17,6 @@ Include screenshots of your app here to showcase its UI and features.
 
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/stopwatch-app.git
+   ```
+   git clone https://github.com/Ashking1956/Stopwatch-App.git
+   ```
